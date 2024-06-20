@@ -6,7 +6,7 @@
 
 
 
-- 🌱 I’m currently learning **: I’m currently diving deep into DSA and competitive programming to sharpen my problem-solving skills.**
+- 🌱 I’m currently diving deep into DSA and competitive programming to sharpen my problem-solving skills.**
 
 - 👯 I’m looking to collaborate on **projects related to app development or web development, especially those that involve third-party APIs, CI/CD pipelines, payment gateways, and other advanced functionalities.**
 
