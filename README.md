@@ -57,4 +57,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
   </a> 
   <a href="https://www.mathworks.com/" target="_blank"
+## GIT STATES
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=Anushka-cseatmnc&theme=tokyonight&hide_border=true&border_radius=5&card_width=500" alt="GitHub Streak" /></a>
 
