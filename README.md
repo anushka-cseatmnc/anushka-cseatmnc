@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently exploring **LLMs, Retrieval-Augmented Generation (RAGs), Computer Vision, and AI-based solutions**.  
 - 🔬 Passionate about **AI, Machine Learning, and Deep Learning**, focusing on **fine-tuning models and real-world AI applications**.  
-- 💡 I'm working on **AI-powered Emotional Support and Wellness Web App**, **E-commerce Ad Optimization**, and **Research Paper Summarizer**.  
+- 💡 I'm working on **AI-powered Emotional Support and Wellness Web App**, **Legal Bot**, and **Emotional awareness AI Agent**.  
 - 👯 I’m open to collaborating on **projects related to AI, NLP, GenAI, and Computer Vision**.  
 - ⚡ Fun fact: **I enjoy participating in hackathons and coding competitions!**  
 - 📫 How to reach me: **anushkachaudhary19128@gmail.com**  
